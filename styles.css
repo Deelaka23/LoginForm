@@ -18,7 +18,8 @@ img{
 .frm{
   position: absolute;
   top: 37%;
-  left: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
   background-color: white;
   width: 80%; 
   min-width: 700px; 
